@@ -10,10 +10,6 @@ Este projeto consiste em um relógio digital simples desenvolvido com HTML, CSS 
 
 - **JavaScript**: O arquivo JavaScript (`script.js`) é responsável por atualizar dinamicamente o conteúdo do relógio, obtendo a hora atual do sistema e atualizando os valores exibidos.
 
-## Como Usar
-
-Para visualizar o relógio digital, basta abrir o arquivo `index.html` em um navegador da web compatível. O relógio começará a exibir a hora atual automaticamente, atualizando os valores de horas, minutos e segundos a cada segundo.
-
 ## Recursos e Funcionalidades
 
 - Exibição dinâmica da hora atual em formato digital.
