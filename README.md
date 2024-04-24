@@ -16,6 +16,11 @@ Este projeto consiste em um relógio digital simples desenvolvido com HTML, CSS 
 - Atualização automática dos valores de horas, minutos e segundos.
 - Estilos visuais personalizados para uma apresentação atraente do relógio.
 
-Este projeto pode servir como um ponto de partida para explorar mais a fundo o desenvolvimento web com HTML, CSS e JavaScript, e pode ser facilmente personalizado e expandido para incluir mais funcionalidades e estilos conforme necessário.
+### Utilização do npm com Moment.js para Adicionar Fusos Horários
 
-![imagem-relogio-digital](https://github.com/AdrianaLMR/Relogio-Dgital-Dinamico/assets/98758967/e08727d5-90a7-42d0-b278-fdc7bb190001)
+Para adicionar funcionalidades de fusos horários ao projeto, utilizamos o gerenciador de pacotes npm em conjunto com a biblioteca Moment.js. Moment.js é uma biblioteca JavaScript amplamente utilizada para manipulação de datas e horários, oferecendo recursos poderosos para lidar com formatação, análise e manipulação de datas.
+
+Integrar o Moment.js ao projeto permite adicionar facilmente funcionalidades relacionadas a fusos horários, como exibir a hora em diferentes regiões do mundo.
+
+Este projeto pode servir como um ponto de partida para explorar mais a fundo o desenvolvimento web com HTML, CSS, JavaScript e integração de bibliotecas externas, como Moment.js. Além disso, pode ser facilmente personalizado e expandido para incluir mais funcionalidades e estilos conforme necessário.
+
