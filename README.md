@@ -24,3 +24,4 @@ Integrar o Moment.js ao projeto permite adicionar facilmente funcionalidades rel
 
 Este projeto pode servir como um ponto de partida para explorar mais a fundo o desenvolvimento web com HTML, CSS, JavaScript e integração de bibliotecas externas, como Moment.js. Além disso, pode ser facilmente personalizado e expandido para incluir mais funcionalidades e estilos conforme necessário.
 
+![Relogio-Digital-video](https://github.com/AdrianaLMR/Relogio-Dgital-Dinamico/assets/98758967/48451481-8563-4fef-8e83-95e934d0c052)
